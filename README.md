@@ -1,6 +1,6 @@
 # Project 2 - *Chirper*
 
-**Chirper** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**Chirper** is an android app that allows users to view their Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **9** hours spent in total
 
